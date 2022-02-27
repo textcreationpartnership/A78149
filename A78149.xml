@@ -1,0 +1,235 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Behold the husbandman S. James 5.7.</title>
+            <author>Barksdale, Clement, 1609-1687.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1677</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 21 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78149</idno>
+            <idno type="STC">Wing B791</idno>
+            <idno type="STC">ESTC R232418</idno>
+            <idno type="EEBO-CITATION">99897984</idno>
+            <idno type="PROQUEST">99897984</idno>
+            <idno type="VID">137598</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78149)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 137598)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2542:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Behold the husbandman S. James 5.7.</title>
+                  <author>Barksdale, Clement, 1609-1687.</author>
+               </titleStmt>
+               <extent>[4], 33, [3] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for John Barksdale, next the Five Bells in New-street,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1677.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dedication signed: C.B. [i.e. Clement Barksdale].</note>
+                  <note>Reproduction of original in the Bodleian Library, Oxford, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  James V, 7 --  Commentaries --  Early works to 1800.</term>
+               <term>Christian literature --  Early works to 1800.</term>
+               <term>Christian life --  Biblical teaching --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-10</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:137598:1" rendition="simple:additions"/>
+            <pb facs="tcp:137598:1"/>
+            <p> BEHOLD THE HUSBANDMAN. S. <hi>James</hi> 5. 7.</p>
+            <p>
+               <hi>Ora &amp; Labora.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>John Barksdale,</hi> next the Five Bells in <hi>New-ſtreet.</hi> 1677.</p>
+            <pb facs="tcp:137598:2"/>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:137598:2"/>
+            <head>To his Loving Friends, and Pariſhioners.</head>
+            <p>THis ſhort Diſcourſe I offer you, in remembrance of my Care, to have you be delighted with your daily Labours; and withal, to raiſe up your thoughts from Earth to Heaven, to that God, who maketh his Sun to ſhine, and his Rain to fall up<g ref="char:EOLhyphen"/>on your Fields, and giveth you to eat the Labors of your hands with comfort. To his continued favor I daily commend you and yours.</p>
+            <closer>
+               <signed>C. B.</signed>
+            </closer>
+            <pb facs="tcp:137598:3"/>
+         </div>
+      </front>
+      <body>
+         <div type="discourse">
+            <pb n="1" facs="tcp:137598:3"/>
+            <epigraph>
+               <bibl>S. <hi>James</hi> 5. 7.</bibl>
+               <q>Behold the Husbandman.</q>
+            </epigraph>
+            <p>THe word, <hi>Behold,</hi> is u<g ref="char:EOLhyphen"/>ſually ſet before things of our careful Obſervation. I invite you therefore to a ſe<g ref="char:EOLhyphen"/>rious view of Husbandry; the conſideration whereof, as it may be delightful to all, ſo will it be eſpecially uſeful to them, whoſe buſineſs is to labor, and ſpend moſt of their time in tilling of the earth. For whoſe ſake I intend in a plain order to declare theſe two points.</p>
+            <list>
+               <item>1. The commendations, and praiſe of Husbandry.</item>
+               <pb n="2" facs="tcp:137598:4"/>
+               <item> 2. The complaints and grie<g ref="char:EOLhyphen"/>vances of it, together with the Remedies and Anſwers.</item>
+            </list>
+            <div n="1" type="part">
+               <head>
+                  <hi>I.</hi> Of the commendation and praiſe of Husbandry.</head>
+               <p n="1">1. HEre we will look up<g ref="char:EOLhyphen"/>on the original and beginning of this employ<g ref="char:EOLhyphen"/>ment. We read in <hi>Gen.</hi> 2. 15. <hi>The Lord God took the man, (Adam</hi> our firſt Father, from whom all Mankind was de<g ref="char:EOLhyphen"/>ſcended,) <hi>and put him into the Garden of</hi> Eden, <hi>to dreſs it, and to keep it.</hi> This was the calling, this the imployment of Man in the ſtate of Inno<g ref="char:EOLhyphen"/>cency, wherein he was crea<g ref="char:EOLhyphen"/>ted, to keep and dreſs a Gar<g ref="char:EOLhyphen"/>den;
+<pb n="3" facs="tcp:137598:4"/> a piece of Husbandry. And this no ſmall commenda<g ref="char:EOLhyphen"/>tion, that it was the firſt im<g ref="char:EOLhyphen"/>ployment, the firſt buſineſs God himſelf put man upon before the Fall. An innocent Labor, well became the ſtate of Innocency.</p>
+               <p>After the Fall, when <hi>Adam</hi> had ſinned by eating the for<g ref="char:EOLhyphen"/>bidden Fruit, as we read <hi>Ge<g ref="char:EOLhyphen"/>neſis</hi> 3. God diſpoſſeſſed <hi>Adam</hi> of that pleaſant Garden, and inſtead of that eaſie and de<g ref="char:EOLhyphen"/>lightful exerciſe of dreſſing the Garden, and keeping it, put him to plow, bound him to this harder labor of raiſing Corn of barren ground, by the ſweat of his brows. For the earth was Curſed for the ſin of Man, and would not
+<pb n="4" facs="tcp:137598:5"/> yield Fruit to him that had rebelled againſt his Maker, un<g ref="char:EOLhyphen"/>til it was overcome by labo<g ref="char:EOLhyphen"/>rious tillage. <hi>In the ſweat of thy Face ſhalt thou eat thy bread.</hi> Gen. 3. 19. However, though the Calling be labo<g ref="char:EOLhyphen"/>rious, you ſee it is by Gods appointment, and it was the work wherein the Father of all Mankind was imployed, to till the ground. This Anti<g ref="char:EOLhyphen"/>quity and beginning of Hus<g ref="char:EOLhyphen"/>bandry is that we obſerve in the firſt place. It is the moſt antient Calling.</p>
+               <p n="2">2. Next to the Antiquity of this imployment, you may take notice of the neceſſity thereof. Bread is the ſtaff of life, and therefore where we
+<pb n="5" facs="tcp:137598:5"/> are taught in the <hi>Lords Prayer</hi> to ask for maintenance, we are commanded to ſay, <hi>Give us Bread.</hi> And when <hi>Jacob</hi> deſired of God to ſuſtain him in his Travels, and promiſed that for ſuch a favor he would be Gods faithful Servant, Bread is named, <hi>If the Lord ſaith he, will give me Bread to eat.</hi> Gen. 28. 20. Bread is the moſt ſubſtantial food, that which is of moſt concernment to us, and for this reaſon it goes for all. Now Bread is that which God hath ordain<g ref="char:EOLhyphen"/>ed to be the fruit of the Hus<g ref="char:EOLhyphen"/>bandmans labor. The Hus<g ref="char:EOLhyphen"/>bandman plows the ground, the ground yieldeth Corn, by Gods bleſſing on it, and of Corn is made Bread. Many
+<pb n="6" facs="tcp:137598:6"/> other things may be ſpared, but Bread may not be want<g ref="char:EOLhyphen"/>ing. <hi>The profit of the earth is for all: the King himſelf is ſer<g ref="char:EOLhyphen"/>ved by the Field.</hi> Eccles. 5. 9. From the higheſt to the low<g ref="char:EOLhyphen"/>eſt, all have need of Bread; it is our daily ſuſtenance. Hus<g ref="char:EOLhyphen"/>bandry therefore is the moſt neceſſary Calling.</p>
+               <p n="3">3. If Husbandry be ſo an<g ref="char:EOLhyphen"/>tient, and ſo neceſſary, it muſt needs be Honorable. And ſo it hath been of high eſteem in the moſt famous Kingdoms and Commonwealths. You heard but now from <hi>Eccle<g ref="char:EOLhyphen"/>ſiaſtes,</hi> That the King himſelf is ſaved by the Field. A juſt cauſe it is, that the King ſhould reſpect, and hold with tillage.
+<pb n="7" facs="tcp:137598:6"/> In the 2 <hi>Chron.</hi> 26. We find a great commendation of one of the good Kings of <hi>Judah,</hi> by name <hi>Uzziah;</hi> and among the reſt of his noble acts, it is mentioned for his Honor, <hi>That he loved Husbandry,</hi> v. 10. This is ſomething out of the ſacred Hiſtory.</p>
+               <p>For other Nations, none was ſo rich in good Examples as the old Commonwealth of <hi>Rome;</hi> none ever ſet a greater eſteem on Husbandry. The Senators themſelves and Fa<g ref="char:EOLhyphen"/>thers of their Country, ſuch as were moſt valiant in Arms, did not diſdain Agriculture, but made the tilling of their tract a great part of their care and exerciſe. Moſt memorable is
+<pb n="8" facs="tcp:137598:7"/> that related by the <hi>Roman</hi> Hiſtories of one of their Dicta<g ref="char:EOLhyphen"/>tors, that was called from the Plow, and ſent to command their Army. When he had conquered the enemy, and delivered his Country from great danger, <hi>Rediit ad boves triumphata Agricola:</hi> This tri<g ref="char:EOLhyphen"/>umphant Husbandman re<g ref="char:EOLhyphen"/>turned to his Plow again. I may add to this, that in an<g ref="char:EOLhyphen"/>tient times Plow-men were ſo much regarded by Armies of Soldiers near each other in the Field, that the Husbandman followed his work without diſturbance. Husbandry is an honorable Calling.</p>
+               <p n="4">4. Not only moſt antient, neceſſary, honorable, but it
+<pb n="9" facs="tcp:137598:7"/> is pleaſant alſo. The pleaſant<g ref="char:EOLhyphen"/>neſs of Husbandry, that's the fourth Commendation of it. See here the goodneſs of God mixt with his ſeverity. You heard before out of <hi>Gen.</hi> 3. that the ground was Curſed for Mans ſin; and that Man was ſentenced to ſweat for his Bread. Here is, you will ſay, the ſeverity of God. But let us obſerve his goodneſs too, in turning their labor and pains into the delight and pleaſure of the honeſt Hus<g ref="char:EOLhyphen"/>bandman. He ſubmits wil<g ref="char:EOLhyphen"/>lingly to Gods Ordinance, and ſeeing God has commanded him to labor hard, labor he will; and it is more pleaſant a great deal to him to labor than to be idle. He ſweats,
+<pb n="10" facs="tcp:137598:8"/> but his ſweat is ſweet. He plows either in the clay, or the ſtony ground: the Birds of the air in the mean time make him muſick, yea and he makes himſelf muſick at his work, and either ſings or whiſtles his melodious Notes, whilſt his eye and his hand direct the Plow. When he returns home from the Field, he brings a good ſtomach with him, which makes even the courſeſt fare more delight<g ref="char:EOLhyphen"/>ful, than the dainties of other men, and after all, <hi>The ſleep of the laboring man is ſweet, whethether he eat little or much.</hi> Eccleſ. 5. 12.</p>
+               <p>Hence it is, from his daily labor and exerciſe of body, from the wholſome air he
+<pb n="11" facs="tcp:137598:8"/> breaths in the open Field, from his plain Diet, and the good reſt attending it: That the Husbandman uſually en<g ref="char:EOLhyphen"/>joys that which is the moſt valuable and ſweeteſt bleſſing of this life, conſtant health and vigor, and ſtrength of bo<g ref="char:EOLhyphen"/>dy; which makes him not only the more chearful in his own vocation, but more able to ſerve his King and Coun<g ref="char:EOLhyphen"/>try when he is called to it.</p>
+               <p>And this might be another commendation of Husbandry, that it hath yielded men moſt ſerviceable in the Wars. Sure<g ref="char:EOLhyphen"/>ly, the ſtrength of the Eng<g ref="char:EOLhyphen"/>liſh Armies is reported by our Hiſtorians to have conſiſted in the Yeomanry, in thoſe times of old, when the Engliſh Na<g ref="char:EOLhyphen"/>tion
+<pb n="12" facs="tcp:137598:9"/> carried their victorious Enſigns over <hi>France,</hi> and o<g ref="char:EOLhyphen"/>ther Countries. This I do but touch, and conclude our firſt point, concerning the commendation of Husbandry from the Antiquity, Neceſſi<g ref="char:EOLhyphen"/>ty, Honor, and Pleaſure of it: Four particulars which may abundantly ſuffice to procure a greater Regard thereof.</p>
+               <p>And I cannot paſs to the next point, before I have made ſome Reflection upon the unthankfulneſs both of Hus<g ref="char:EOLhyphen"/>bandmen themſelves, and of Men that are of other Cal<g ref="char:EOLhyphen"/>lings.</p>
+               <p>Husbandmen themſelves, many of them ſeem not to ac<g ref="char:EOLhyphen"/>knowledg the worthineſs and
+<pb n="13" facs="tcp:137598:9"/> uſefulneſs of their courſe of life. They do not rightly va<g ref="char:EOLhyphen"/>lue the bleſſing of God, who gives them to <hi>eat the labor of their hands,</hi> to uſe the words of the 128 <hi>Pſalm.</hi> They fol<g ref="char:EOLhyphen"/>low not their buſineſs wi<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h that integrity and alacrity, which becomes their inno<g ref="char:EOLhyphen"/>cent and uſeful Calling Think upon Gods Ordinance, that hath appointed you to your labor; think upon the great benefit of your labors to the commonwealth; think upon the happineſs of having health of body, wholeſome diet, un<g ref="char:EOLhyphen"/>diſturbed ſleep, and be not contented only, but thankful that God hath placed you in ſuch a way of life. Husband<g ref="char:EOLhyphen"/>men were happy, if they did
+<pb n="14" facs="tcp:137598:10"/> conſider well the happineſs of their Calling. <hi>Felices nimium bona ſi ſua norint.</hi>
+               </p>
+               <p>And Men of other Callings may be taxed of injuſtice and unthankfulneſs, who ſlights the Husbandman that pro<g ref="char:EOLhyphen"/>vides them Bread. Let not the fine Gentleman, nor the rich Citizen, pride himſelf in ſoft apparel, or dainty fare, and deride the plainneſs and ſimplicity of the Husband<g ref="char:EOLhyphen"/>man. They cannot live with<g ref="char:EOLhyphen"/>out Bread, and this comes from the labor of the plain, ſimple Husbandman.</p>
+               <p>But leaſt I ſeem to flatter my Husbandman, and blow him up with a vain opinion of himſelf, or lay him to ſleep in ſecurity, let me now pro<g ref="char:EOLhyphen"/>ceed
+<pb n="15" facs="tcp:137598:10"/> from the praiſes of the Husbandmans Calling, to the Complaints and Grievances, together with their Remedies and Anſwers.</p>
+            </div>
+            <div n="2" type="part">
+               <head>
+                  <hi>II.</hi> Of the Complaints or Grie<g ref="char:EOLhyphen"/>vances of Husbandry.</head>
+               <p n="1">1. THe Husbandman, be<g ref="char:EOLhyphen"/>ing the Man that fetches his profits out of the earth, is in danger of being earthly minded. Obſerve the Plow-man at his work: He boweth his body toward the ground, leaning upon his Plow: He hath his eye fixed on the Furrow: He ſeems to love the very ſmell of the dung and ſoil wherewith his
+<pb n="16" facs="tcp:137598:11"/> land is made more fruitful. To walk among his Corn, to ſee it proſper, and grow more and more ready for the har<g ref="char:EOLhyphen"/>veſt, is his great delight: To have ſeaſonable weather is his deſire: The Inning of his Corn, and carrying of it out to market is his care; and theſe things are ſo much in his Thoughts, ſo much in his Talk, that the fear is, leſt he cleave too much to the earth, and to theſe temporal things pertaining to our preſent life, not minding, as he ought, things heavenly and eternal, in compariſon whereof all earthly profits are contempti<g ref="char:EOLhyphen"/>ble. 'Tis a hard matter for Men ſo much converſant with earth, and looking ſo much
+<pb n="17" facs="tcp:137598:11"/> upon it, to raiſe up their minds to heaven. This is the complaint.</p>
+               <p>To prevent or correct this too much minding of the world, and love of earthly things, Scripture and Reaſon afford us helps and remedies ſufficient. Reaſon it ſelf may teach us the vanity and uncer<g ref="char:EOLhyphen"/>tainty of worldly youth: That the things we poſſeſs are ſub<g ref="char:EOLhyphen"/>ject to many caſualties, and may be taken from us; and that we our ſelves are alſo liable to many accidents, and may be taken away we know not how ſoon from the things which we now poſſeſs. But then the Scripture comes in with loud Admonitions. <hi>Vani<g ref="char:EOLhyphen"/>ty of vanities, all is vanity, ſaith</hi>
+                  <pb n="18" facs="tcp:137598:12"/> 
+                  <hi>the Preacher,</hi> Eccleſ. 1. <hi>All fleſh is graſs, and the goodlineſs thereof is as the flower of the field,</hi> ſaith the Prophet <hi>Iſa.</hi> 40. <hi>Ye cannot ſerve God and Mam<g ref="char:EOLhyphen"/>mon,</hi> ſath our Saviour: <hi>And take no thought for your life, what you ſhall ear,</hi> Matth. 6. <hi>Love not the world, nor the things of the world,</hi> ſaith S. <hi>John,</hi> 1 Epiſt. 2. ch. <hi>What is your life,</hi> ſaith St. <hi>James, It is but a va<g ref="char:EOLhyphen"/>por.</hi> Add to all this the ex<g ref="char:EOLhyphen"/>ample of the fooliſh Husband<g ref="char:EOLhyphen"/>man; who pleaſed himſelf in his full Barns, and truſted in the abundance of his fruits but is ſoundly checked for it, <hi>Luke</hi> 12. 20. All which may ſerve to ſecure our husband<g ref="char:EOLhyphen"/>man from danger, or to Cure him of his over much mind<g ref="char:EOLhyphen"/>ing
+<pb n="19" facs="tcp:137598:12"/> and ſetting his affection upon this earth; and may teach him to look up to Hea<g ref="char:EOLhyphen"/>ven to lay up riches there, where they ſhall be reſerved for him as an immortal poſ<g ref="char:EOLhyphen"/>ſeſſion.</p>
+               <p n="2">2. But it is urged again, that the Husbandman whoſe daily imployment is about this earth, and in providing for the body, can have but little time to beſtow upon Re<g ref="char:EOLhyphen"/>ligion, and the care of his Soul. And this may be per<g ref="char:EOLhyphen"/>haps in your thoughts, when I exhort you not to be earth<g ref="char:EOLhyphen"/>ly minded; you may think upon the multiplicity of your buſineſs, you muſt plow, and ſow, and gather in, and
+<pb n="20" facs="tcp:137598:13"/> threſh, and carry out to mar<g ref="char:EOLhyphen"/>ket, and beſides take care of I know not how many mat<g ref="char:EOLhyphen"/>ters more, belonging to your courſe of life; and you may wonder that any Preacher ſhould require of Tillers of the earth, and ſecular Men, that they ſhould be ſpiritual Men, and make Religion their buſi<g ref="char:EOLhyphen"/>neſs. To this I anſwer, That you muſt learn to follow worldly buſineſs with heaven<g ref="char:EOLhyphen"/>ly minds. That is thus; Con<g ref="char:EOLhyphen"/>ſider your Calling is ordained by God, and that when you do the works of your Calling rightly, you do then do God ſervice. Take the fear of God with you, aim at his glory as that great end of your life, behave your ſelf humbly, and
+<pb n="21" facs="tcp:137598:13"/> honeſtly, and faithfully as be<g ref="char:EOLhyphen"/>fore him. This having of right aims, this walking up<g ref="char:EOLhyphen"/>rightly, this doing of worldly buſineſs in obedience to God, this minding of Gods preſence with you, and his Providence over you, is the following of earthly affairs in a ſpiritual and heavenly manner, and may juſtly be accounted the true ſerving of God.</p>
+               <p>But then withal, no Man muſt ſo far engage himſelf to the affairs of this world, but he muſt have ſome time of freedom to attend upon the immediate ſervice of God in holy duties, both publick in the Congregation, private in the Family, and yet more pri<g ref="char:EOLhyphen"/>vate in the Cloſet, or any ſe<g ref="char:EOLhyphen"/>cret
+<pb n="22" facs="tcp:137598:14"/> place. I ſay, No Man muſt forget theſe, but ſo or<g ref="char:EOLhyphen"/>der his worldly buſineſs, that Religion may not be neglect<g ref="char:EOLhyphen"/>ed, that the ſoul may not be unprovided for, that holy du<g ref="char:EOLhyphen"/>ties may not be omitted.</p>
+               <p>This our Husbandman will be the more careful of, I mean to afford time for holy duties, by conſidering, that it is the Lords bleſſing which makes the earth fruitful. In vain you riſe up early, and ſit up late; in vain you toil and la<g ref="char:EOLhyphen"/>bor, except the Lord proſper you, except he ſend the for<g ref="char:EOLhyphen"/>mer and later rain, and make the Sun to ſhine upon the Land. Therefore it is, that in Scripture, the food we have out of the earth for our ſelves,
+<pb n="23" facs="tcp:137598:14"/> and for our Cattle, is not ſo much aſcribed to the care and labor of the Husbandman, as to the goodneſs and bounty of God. <hi>The eyes of all wait upon thee O Lord, and thou giveſt them their meat in due ſeaſon. Thou openeſt thy hand, and ſa<g ref="char:EOLhyphen"/>tisfieſt the deſire of every living thing.</hi> Pſal. 145. 15, 16.</p>
+               <p n="3">3. 'Tis a great complaint and grievance, That the Hus<g ref="char:EOLhyphen"/>bandman after all his care and pains, and labor, meets with many croſſes, and loſſes. After his diligent plowing and ſowing, ſometimes he does not receive his ſeed again: ſometimes his harveſt is ſpoil<g ref="char:EOLhyphen"/>ed by immoderate rain, and unſeaſonable weather: ſome<g ref="char:EOLhyphen"/>times
+<pb n="24" facs="tcp:137598:15"/> his laboring Cattle are diſeaſed, and die upon his hands: ſometimes the mar<g ref="char:EOLhyphen"/>kets fall, and the price of Corn anſwers not his expectation, nor his labor and charge to raiſe it. Theſe, and more ſad accidents may make a Countrymans life not very de<g ref="char:EOLhyphen"/>ſirable.</p>
+               <p>But to give ſome Anſwer to this alſo: I would know of you what Calling in the world is free from loſſes, and croſſes. Are not the Mer<g ref="char:EOLhyphen"/>chants Ventures in great pe<g ref="char:EOLhyphen"/>rils? Are not their Ships, however richly laden, ſome<g ref="char:EOLhyphen"/>times caſt away in the tem<g ref="char:EOLhyphen"/>peſtuous Sea, and ſwallowed in the deep, ſometimes rob'd and plundered by the Pirates?
+<pb n="25" facs="tcp:137598:15"/> Do not Shop-keeperse it her, by ill bargains, or bad cuſtomers ſometimes break? Are not all humane affairs ſubject to changes, and chances? Where<g ref="char:EOLhyphen"/>fore, if we would not be with<g ref="char:EOLhyphen"/>in a poſſibility of any calami<g ref="char:EOLhyphen"/>ty, we muſt altogether for<g ref="char:EOLhyphen"/>ſake the earth, and have no commerce with the preſent world.</p>
+               <p>All that I can ſay here is this: We muſt not by our own negligence make to our ſelves, and create croſſes: We muſt walk very circumſpectly in all our affairs, and take heed that we be not injured and a<g ref="char:EOLhyphen"/>buſed by a deceitful world. The croſſes which God ſhall lay upon us, we muſt learn to bear patiently, and find out
+<pb n="26" facs="tcp:137598:16"/> the right uſe of every acci<g ref="char:EOLhyphen"/>dent. And we muſt ſet the good we have gotten, againſt the evil we ſuffer. The ho<g ref="char:EOLhyphen"/>neſt Husbandman, if he fail of his hopes one year, will comfort himſelf with the fruit<g ref="char:EOLhyphen"/>fulneſs of another year. If at one time he hath a bad mar<g ref="char:EOLhyphen"/>ket, another time will make amends. If his loſs be heavy now, his gain may be as great hereafter. But ſuppoſe he ſhould be impoveriſht by ca<g ref="char:EOLhyphen"/>ſualties, and adverſities: His breeding, and courſe of life enables him to bear hardſhips and want a great deal more eaſily, than ſuch as are of a more delicate and ſoft temper, and condition. And this I take to be no ſmall advantage
+<pb n="27" facs="tcp:137598:16"/> of our Husbandman, when the worſt that can come, falls upon him.</p>
+               <p n="4">4. One more complaint, and it is a great grievance in the eye of many Husband<g ref="char:EOLhyphen"/>men, that their Lands are ſub<g ref="char:EOLhyphen"/>ject to heavy Taxes, and to the payment of Tithes. Hence ariſeth occaſion of murmur<g ref="char:EOLhyphen"/>ing and diſcontent, that all the fruits of their labors, and profits of their eſtates ſhould not go into their own Coffers. But let us conſider.</p>
+               <p>The Taxes firſt and Tribute which is called for by the State; Is it not for the main<g ref="char:EOLhyphen"/>tenance of Peace amongſt us? Is it not for the defence of the Kingdom? Is not that which
+<pb n="28" facs="tcp:137598:17"/> we pay to the King given him by Act of Parliament, the Re<g ref="char:EOLhyphen"/>preſentative of the whole Na<g ref="char:EOLhyphen"/>tion? So then, if that which the Husbandman payeth to the publick, be paid according to the Laws of the Land; if it be paid to a very good end and purpoſe, that we may lead a quiet and peaceable life, and enjoy our lives, and liberties, and eſtates in ſafety: Surely, this is not a juſt matter of complaint. At this be not troubled, be not grieved.</p>
+               <p>Then alſo for Tithes paid to the Church, Shall our Hus<g ref="char:EOLhyphen"/>band men be worſe than <hi>Jews?</hi> The Miniſters of their Law had Cities, and Lands, and Tithes, and Offerings, which are found upon a juſt account
+<pb n="29" facs="tcp:137598:17"/> of Learned Men, far, very far to exceed the portion of the Miniſters of the Goſpel. And yet the Goſpel is a far better Miniſtration, as S. <hi>Paul</hi> decla<g ref="char:EOLhyphen"/>reth, 2 <hi>Cor.</hi> 3. Again, Shall our Husbandmen have leſs Faith in God than the <hi>Jews?</hi> Among them it was received as a moſt certain truth, <hi>Da de<g ref="char:EOLhyphen"/>cimus ut diteſcar:</hi> Pay thy Tithes well, and be rich. The juſt and chearful payment of Tithes was the right way to proſper, and to have Gods bleſſing upon their Land. They had a Prayer to be uſed at the end of Tithing, where<g ref="char:EOLhyphen"/>in they lay'd claim to the bleſſing promiſed: Lord, now look down from thy holy Ha<g ref="char:EOLhyphen"/>bitation, and bleſs thy people,
+<pb n="30" facs="tcp:137598:18"/> and bleſs the Land which thou haſt given us. <hi>Deut.</hi> 26. 15. Briefly, if Tithes by the antient Laws of this Land, are given and ſolemnly direct<g ref="char:EOLhyphen"/>ed to God and his Church. <hi>(Deo &amp; Eccleſiae;</hi> ſo it is in the Records,) To God and his Church: If they are held by Miniſters, by as good right, as other Free-men holds their eſtates: If they are neither to be bought nor ſold by the Tenant-holders: If the end of them be for the Glory of God, and the everlaſting good of Gods people: Then of this payment to be duly and truly made by the honeſt Husband<g ref="char:EOLhyphen"/>man, I may alſo pronounce: Be not troubled at it, Be not grieved.</p>
+               <pb n="31" facs="tcp:137598:18"/>
+               <p> Thus Beloved, you have heard, as in the firſt part, the commendation of Husbandry, from the Antiquity, Neceſſi<g ref="char:EOLhyphen"/>ty, Honor, and Pleaſure of it: So in our later part, the Com<g ref="char:EOLhyphen"/>plaints and Grievances; in as much as Men that till the earth, are apt to be earthly minded; and ſecondly, that they have ſo much worldly buſineſs, as not to ſpare time for duties of Religion; and thirdly, that they are expoſed to many loſſes and croſſes; and fourthly, that their Lands are burthened with payment of Taxes, and Tithes. You have heard of all the Anſwers and Remedies, for thoſe Com<g ref="char:EOLhyphen"/>plaints and Grievances.</p>
+            </div>
+            <div type="conclusion">
+               <pb n="32" facs="tcp:137598:19"/>
+               <head>Concluſion.</head>
+               <p>IT remains only to conclude with a ſhort exhortation, and that ſhall be by calling you off from the earthly to the ſpiritual Husbandry. As you till your ground, ſo muſt your ſelves alſo be tilled and manu<g ref="char:EOLhyphen"/>red. For ye are Gods Hus<g ref="char:EOLhyphen"/>bandry, ſaith the Apoſtle, 1 <hi>Cor.</hi> 3. 9. The Miniſters of the Goſpel are Gods Husbandmen to manure and cultivate your ſouls. Be not, I beſeech you, like unto the Rook, that will not receive the ſeed of Gods Word. Do not ſuffer the Word that is ſcattered amongſt you to be unprofitable. As you expect fruit from the Land
+<pb n="33" facs="tcp:137598:19"/> that you beſtow pains upon; as you look for a harveſt: So do you bring forth fruit unto God, and let not our labor be in vain. The fruit which the earth yieldeth, is but for the maintenance of this ſhort, and tranſitory life: but the Fruit of the Word of God, the Fruit of the Spirit, holi<g ref="char:EOLhyphen"/>neſs and righteouſneſs, this Fruit endureth to Eternity. This Fruit, this moſt precious Fruit, that you may bring forth plentifully. God of his infinite mercy grant, through Jeſus Chriſt our Lord. To whom, <hi>&amp;c.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:137598:20"/>
+         </div>
+      </body>
+      <back>
+         <div type="text">
+            <pb facs="tcp:137598:20"/>
+            <head>THE GOOD HOUSHOLDER</head>
+            <p n="1">1. HE not only provideth tem<g ref="char:EOLhyphen"/>poral maintenance for his Children, and Servants; but ta<g ref="char:EOLhyphen"/>keth care of their ſpiritual eſtate, and feedeth their ſouls as well as their bodies.</p>
+            <p n="2">2. His endeavor is, that every one of the Houſhold may attend upon Gods ſervice in the Church, as well as follow their ordinary buſineſs in the Houſe, Field, or Market.</p>
+            <p n="3">3. Prayer, and Reading, and Catechiſing is duly obſerved in his Family. And for the better or<g ref="char:EOLhyphen"/>dering thereof, direction is taken from Gods Miniſter, the Guide
+<pb facs="tcp:137598:21"/> of Souls, not only by publick mi<g ref="char:EOLhyphen"/>niſtration, but by private and particular aſſiſtance alſo. With whom he delighteth often to con<g ref="char:EOLhyphen"/>fer about things Divine, and the care of his Soul.</p>
+            <pb facs="tcp:137598:21"/>
+         </div>
+      </back>
+   </text>
+</TEI>
